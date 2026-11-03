@@ -42,9 +42,11 @@ uvicorn app.main:app --reload
 
 \- GitHub: github.com/penjani0005/base360
 
-\- Builder: Penjani — Lusaka, Zambia (GMT+2), ZamFit Pro (Play Store) + GetBrains
+\- Builder: Penjani — Kitwe, Copperbelt, Zambia (GMT+2)
+
+\- Projects: ZamFit Pro (in development) + GetBrains
 
 
 
-Built for Blacksmith AI Agency interview
+Built for Blacksmith AI Agency interview — builder who ships with LLMs
 
